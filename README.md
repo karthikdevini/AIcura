@@ -16,22 +16,6 @@ AIcura is a simple, locally running AI health assistant that lets you input your
 
 ---
 
-## 📁 Project Structure
-
-ai_health_assistant/
-├── app.py                     # Main app file to launch Gradio UI
-├── config.py                  # Loads API keys and environment variables
-├── doctor/
-│   ├── diagnosis.py           # Core logic for processing symptoms
-│   ├── groq_client.py         # Handles Groq API interaction
-│   ├── image_utils.py         # Encodes images to base64
-│   └── speech.py              # Text-to-speech conversion with gTTS
-├── .env                       # API key storage
-├── requirements.txt           # Python dependencies
-└── README.md                  # You're reading this :)
-
----
-
 ## 🚀 Setup Instructions
 
 ### 1. Clone the repo
