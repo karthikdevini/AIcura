@@ -20,8 +20,8 @@ AIcura is a simple, locally running AI health assistant that lets you input your
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/ai_health_assistant.git
-cd ai_health_assistant
+git clone https://github.com/karthikdevini/AIcura.git
+cd AIcura
 
 ### 2. Create a virtual environment
 
